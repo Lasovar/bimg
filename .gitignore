@@ -5,3 +5,9 @@
 .svn
 tags
 .gdb_history
+
+*.vcxproj
+*.vcxproj.filters
+
+/bin
+/bin-int
